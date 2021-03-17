@@ -2,7 +2,7 @@
 
 namespace MazeGenerator
 {
-    class MainClass
+    class Program
     {
         static int MaxRows = 5;
         static int MaxCols = 5;
